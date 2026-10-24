@@ -36,10 +36,11 @@
 |---|---|
 | [**Project One**](https://github.com/USERNAME/repo-one) | One-line description |
 | [**Project Two**](https://github.com/USERNAME/repo-two) | One-line description |
--->
+
 
 ### 📊 GitHub stats
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=NipuniK&show_icons=true&theme=default&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipuniK&layout=compact&hide_border=true" />
 </p>
+-->
